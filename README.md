@@ -1,4 +1,4 @@
-# Geração de Orçamento de Projeto em PDF
+# Gerador de Orçamento de Projeto em PDF
 
 ## Descrição
 
